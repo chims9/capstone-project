@@ -1,0 +1,2 @@
+# capstone-project
+static webpage
